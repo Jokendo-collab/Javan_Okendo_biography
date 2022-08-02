@@ -4,9 +4,9 @@ Javan Okendo completed his PhD at the University of Cape Town (UCT), where he us
 ![Javan Okendo](Aspose.Words.2a6a9bdd-b0f5-465f-bd15-d0f8f53f3b54.001.jpeg)
 
 ## Publications
-1.  **Okendo J**, Okanda D. Investigating expressed RNA variants that are related to disease severity in SARS-CoV-2-infected patients with mild-to-severe disease. Egyptian Journal of Medical Human Genetics. 2022 Dec;23(1):1-7. [x]
-2.  **Okendo J**, Musanabaganwa C, Mwangi P, Nyaga M, Onywera H. SARS-CoV-2-positive patients display considerable differences in proteome diversity in urine, nasopharyngeal, gargle solution and bronchoalveolar lavage fluid samples. medRxiv. 2022 Jan 1. [x]
-3.  **Okendo J**, Okanda D, Mwangi P, Nyaga M. Proteomic deconvolution reveals distinct immune cell fractions in different body sites in SARS-Cov-2 positive individuals. medRxiv. 2022 Jan 1. [x]
+1.  **Okendo J**, Okanda D. Investigating expressed RNA variants that are related to disease severity in SARS-CoV-2-infected patients with mild-to-severe disease. Egyptian Journal of Medical Human Genetics. 2022 Dec;23(1):1-7. 
+2.  **Okendo J**, Musanabaganwa C, Mwangi P, Nyaga M, Onywera H. SARS-CoV-2-positive patients display considerable differences in proteome diversity in urine, nasopharyngeal, gargle solution and bronchoalveolar lavage fluid samples. medRxiv. 2022 Jan 1.
+3.  **Okendo J**, Okanda D, Mwangi P, Nyaga M. Proteomic deconvolution reveals distinct immune cell fractions in different body sites in SARS-Cov-2 positive individuals. medRxiv. 2022 Jan 1.
 4.  Onywera H, Anejo-Okopi J, Mwapagha LM, **Okendo J**, Williamson AL. Predictive functional analysis reveals inferred features unique to cervicovaginal microbiota of African women with bacterial vaginosis and high-risk human papillomavirus infection. PLoS One. 2021 Jun 18;16(6):e0253218.
 5.  Tabb DL, Murugan BD, **Okendo J**, Nair O, Blackburn JM, Buthelezi SG, Stoychev S. Open search unveils modification patterns in formalin-fixed, paraffin-embedded thermo HCD and SCIEX TripleTOF shotgun proteomes. International Journal of Mass Spectrometry. 2020 Feb 1;448:116266.
 6.  Kimulwo MJ, **Okendo J**, Aman RA, Ogutu BR, Kokwaro GO, Ochieng DJ, Muigai AW, Oloo FA, Ochieng W. Plasma nevirapine concentrations predict virological and adherence failure in Kenyan HIV-1 infected patients with extensive antiretroviral treatment exposure. PloS one. 2017 Feb 24;12(2):e0172960.
