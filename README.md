@@ -6,7 +6,7 @@ Javan Okendo completed his PhD at the University of Cape Town (UCT), where he us
 <b>File photo of Javan Okendo at V & A waterfront in Cape Town, South Africa</b>
 
 ## Publications
-1.  **Okendo J**, Okanda D. Investigating expressed RNA variants that are related to disease severity in SARS-CoV-2-infected patients with mild-to-severe disease. Egyptian Journal of Medical Human Genetics. 2022 Dec;23(1):1-7. 
+1. **Okendo, J.**, Okanda, D. Investigating expressed RNA variants that are related to disease severity in SARS-CoV-2-infected patients with mild-to-severe disease. Egypt J Med Hum Genet 23, 84 (2022). https://doi.org/10.1186/s43042-022-00299-5
 2. **Okendo, J**. Characterization of the expressed RNA variants from young patients with critical and non-critical SARS-CoV-2 infection. Egypt J Med Hum Genet 23, 115 (2022). https://doi.org/10.1186/s43042-022-00327-4
 3.  **Okendo J**, Musanabaganwa C, Mwangi P, Nyaga M, Onywera H (2022) SARS-CoV-2-positive patients display considerable differences in proteome diversity in urine, nasopharyngeal, gargle solution and bronchoalveolar lavage fluid samples. PLoS ONE 17(8): e0271870. https://doi.org/10.1371/journal.pone.0271870
 4.  **Okendo J**, Okanda D, Mwangi P, Nyaga M. Proteomic deconvolution reveals distinct immune cell fractions in different body sites in SARS-Cov-2 positive individuals. medRxiv. 2022 Jan 1.
