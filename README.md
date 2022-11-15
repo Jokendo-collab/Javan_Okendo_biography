@@ -7,7 +7,7 @@ Javan Okendo completed his PhD at the University of Cape Town (UCT), where he us
   <img src="https://github.com/Jokendo-collab/Javan_Okendo_biography/blob/main/Sally1.jpg" width="500" height="500" />
   <img src="https://github.com/Jokendo-collab/Javan_Okendo_biography/blob/main/sally2.jpg" width="500" height="500" />
 </p>
-> Javan Okendo and his children Jamaine Ochieng Okendo and Sally Amondi Okendo.
+Javan Okendo and his children Jamaine Ochieng Okendo and Sally Amondi Okendo.
 
 ## Publications
 1. **Okendo J,** Okanda D. Investigating expressed RNA variants that are related to disease severity in SARS-CoV-2-infected patients with mild-to-severe disease. Egypt J Med Hum Genet. 2022;23(1):84. doi: 10.1186/s43042-022-00299-5. Epub 2022 Apr 28. PMCID: PMC9047483.
