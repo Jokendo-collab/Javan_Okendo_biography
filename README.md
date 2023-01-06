@@ -25,3 +25,30 @@ inspired anti-cancer compounds using a multi-omics approach. J Proteomics. 2022 
 12.  HADEBE S, Savulescu AF, Khumalo J, Jones K, Mangali S, Mthembu N, Ngomti A, Scibiorek M, **Okendo J**, Brombacher F. IgM regulates airway hyperresponsiveness via modulation of actin associated genes.
 13. Sharaf BM, Giddey AD, Al-Hroub HM, Menon V, **Okendo J**, El-Awady R, Mousa M, Almehdi A, Semreen MH, Soares NC. Mass spectroscopy-based proteomics and metabolomics analysis of triple-positive breast cancer cells treated with tamoxifen and/or trastuzumab. Cancer Chemother Pharmacol. 2022 Oct 20. doi: 10.1007/s00280-022-04478-4. Epub ahead of print. PMID: 36264351.
 
+## Mombasa is a popular tourist destination located on the coast of Kenya. Some of the best places to visit in Mombasa include:
+
+- [x] Old Town: The Old Town is a historic neighborhood in Mombasa that is known for its narrow streets, colorful buildings, and Swahili architecture. It is a great place to explore on foot and experience the local culture.
+
+- [x] Fort Jesus: Fort Jesus is a 16th-century Portuguese fort that is now a museum. It is a popular attraction in Mombasa, and offers a fascinating look into the city's history.
+
+- [x] Mombasa Marine National Park: This national park is home to a variety of marine life, including dolphins, whales, and a variety of fish. Visitors can go snorkeling or scuba diving to see the underwater creatures.
+
+- [x] Mombasa Island: Mombasa Island is a beautiful place to spend a day at the beach. There are a number of beaches to choose from, each with its own unique character.
+
+- [x] Mombasa Tusks: The Mombasa Tusks are two large elephant tusks that are located at the entrance to the city. They are a popular photo opportunity and a symbol of Mombasa.
+
+- [x] Nyali Beach: Nyali Beach is a popular spot for swimming, sunbathing, and water sports. It is also home to several resorts and restaurants, making it a convenient place to stay.
+
+## Beaches to visit in mombasa
+
+- [ ] Bamburi Beach: Bamburi Beach is a popular beach that is located just north of Mombasa. It is known for its white sand and clear water, and is a great place to relax and soak up the sun.
+
+- [ ] Nyali Beach: Nyali Beach is another popular beach that is located just north of Mombasa. It is a great place to go swimming, sunbathing, and water sports.
+
+- [ ] Diani Beach: Diani Beach is a beautiful beach located south of Mombasa. It is known for its white sand and clear water, and is a popular spot for swimming, sunbathing, and water sports.
+
+- [ ] Tiwi Beach: Tiwi Beach is a secluded beach that is located south of Mombasa. It is a great place to escape the crowds and relax in a peaceful setting.
+
+- [ ] Galu Beach: Galu Beach is a long, sandy beach that is located south of Mombasa. It is a popular spot for swimming and sunbathing, and is also home to several resorts and restaurants.
+
+- [ ] Shanzu Beach: Shanzu Beach is a beautiful beach located north of Mombasa. It is known for its clear water and white sand, and is a popular spot for swimming and sunbathing.
