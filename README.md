@@ -11,7 +11,7 @@ Javan Okendo and his children Jamaine Ochieng Okendo and Sally Amondi Okendo.
 
 ## Publications
 1. **Okendo J,** Okanda D. Investigating expressed RNA variants that are related to disease severity in SARS-CoV-2-infected patients with mild-to-severe disease. Egypt J Med Hum Genet. 2022;23(1):84. doi: 10.1186/s43042-022-00299-5. Epub 2022 Apr 28. PMCID: PMC9047483.
-2. Mwangi, Peter, **Javan Okendo**, Milton Mogotsi, Ayodeji Ogunbayo, Olusesan Adelabu, Hlengiwe Sondlane, Makgotso Maotoana, et al. “SARS-CoV-2 Variants from COVID-19 Positive Cases in the Free State Province, South Africa from July 2020 to December 2021   .” Frontiers in Virology  , 2022. https://www.frontiersin.org/articles/10.3389/fviro.2022.935131.
+2. Mwangi, Peter*, **Javan Okendo***, Milton Mogotsi, Ayodeji Ogunbayo, Olusesan Adelabu, Hlengiwe Sondlane, Makgotso Maotoana, et al. “SARS-CoV-2 Variants from COVID-19 Positive Cases in the Free State Province, South Africa from July 2020 to December 2021   .” Frontiers in Virology  , 2022. https://www.frontiersin.org/articles/10.3389/fviro.2022.935131. ***These authors contributed equaly to this work**
 3. **Okendo J.** Characterization of the expressed RNA variants from young patients with critical and non-critical SARS-CoV-2 infection. Egypt J Med Hum Genet. 2022;23(1):115. doi: 10.1186/s43042-022-00327-4. Epub 2022 Aug 3. PMCID:PMC9362069.
 4. Soares NC, Ali A, Srinivasulu V, Sharaf BM, Giddey AD, **Okendo J**, Al-Hroub HM, Semreen MH, Hamad M, Al-Tel TH. Unveiling the mechanism of action of nature-
 inspired anti-cancer compounds using a multi-omics approach. J Proteomics. 2022 Aug 15;265:104660. doi: 10.1016/j.jprot.2022.104660. Epub 2022 Jun 18. PMID: 35728772.
