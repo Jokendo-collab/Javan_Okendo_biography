@@ -4,8 +4,7 @@ Javan Okendo completed his PhD at the University of Cape Town (UCT) in Professor
 <p float="left">
   <img src="https://github.com/Jokendo-collab/Javan_Okendo_biography/blob/main/20221114_100600.jpg" width="500" height="500"  />
   <img src="https://github.com/Jokendo-collab/Javan_Okendo_biography/blob/main/IMG-20220724-WA0006.jpg" width="500" height="500" /> 
-  <img src="https://github.com/Jokendo-collab/Javan_Okendo_biography/blob/main/Sally1.jpg" width="500" height="500" />
-  <img src="https://github.com/Jokendo-collab/Javan_Okendo_biography/blob/main/sally2.jpg" width="500" height="500" />
+  <img src="https://github.com/Jokendo-collab/Javan_Okendo_biography/blob/main/WhatsApp%20Image%202023-07-09%20at%2008.05.35.jpeg" width="500" height="500" />
 </p>
 Javan Okendo and his children Jamaine Ochieng Okendo and Sally Amondi Okendo.
 
